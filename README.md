@@ -2,6 +2,8 @@
 
 This project benchmarks the performance of compiled queries in Entity Framework Core using .NET 7. It leverages `BenchmarkDotNet` for benchmarking and `Bogus` for generating fake data.
 
+![Image](https://github.com/user-attachments/assets/eb06b0fc-3ff2-4180-9de8-e30c7064e04c)
+
 ## Table of Contents
 
 - [Installation](#installation)
